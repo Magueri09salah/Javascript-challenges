@@ -1,0 +1,82 @@
+[
+  {
+    "EmployeeID": "EMP001",
+    "AnnualSalary": 32500
+  },
+  {
+    "EmployeeID": "EMP002",
+    "AnnualSalary": 35000
+  },
+  {
+    "EmployeeID": "EMP003",
+    "AnnualSalary": 37500
+  },
+  {
+    "EmployeeID": "EMP004",
+    "AnnualSalary": 40000
+  },
+  {
+    "EmployeeID": "EMP005",
+    "AnnualSalary": 42500
+  },
+  {
+    "EmployeeID": "EMP006",
+    "AnnualSalary": 45000
+  },
+  {
+    "EmployeeID": "EMP007",
+    "AnnualSalary": 47500
+  },
+  {
+    "EmployeeID": "EMP008",
+    "AnnualSalary": 50000
+  },
+  {
+    "EmployeeID": "EMP009",
+    "AnnualSalary": 52500
+  },
+  {
+    "EmployeeID": "EMP010",
+    "AnnualSalary": 55000
+  },
+  {
+    "EmployeeID": "EMP011",
+    "AnnualSalary": 57500
+  },
+  {
+    "EmployeeID": "EMP012",
+    "AnnualSalary": 60000
+  },
+  {
+    "EmployeeID": "EMP013",
+    "AnnualSalary": 62500
+  },
+  {
+    "EmployeeID": "EMP014",
+    "AnnualSalary": 65000
+  },
+  {
+    "EmployeeID": "EMP015",
+    "AnnualSalary": 67500
+  },
+  {
+    "EmployeeID": "EMP016",
+    "AnnualSalary": 70000
+  },
+  {
+    "EmployeeID": "EMP017",
+    "AnnualSalary": 72500
+  },
+  {
+    "EmployeeID": "EMP018",
+    "AnnualSalary": 75000
+  },
+  {
+    "EmployeeID": "EMP019",
+    "AnnualSalary": 77500
+  },
+  {
+    "EmployeeID": "EMP020",
+    "AnnualSalary": 80000
+  }
+]

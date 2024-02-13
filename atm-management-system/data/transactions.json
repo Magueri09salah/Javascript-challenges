@@ -1,0 +1,38 @@
+[
+  {
+    "accountID": "ACC1001",
+    "type": "deposit",
+    "amount": 120,
+    "timestamp": "2024-02-11T17:50:08.360Z"
+  },
+  {
+    "accountID": "ACC1001",
+    "type": "withdrawal",
+    "amount": 20,
+    "timestamp": "2024-02-11T17:51:35.560Z"
+  },
+  {
+    "accountID": "ACC1001",
+    "type": "deposit",
+    "amount": null,
+    "timestamp": "2024-02-11T17:53:52.573Z"
+  },
+  {
+    "accountID": "ACC1001",
+    "type": "deposit",
+    "amount": 1000,
+    "timestamp": "2024-02-11T17:54:45.869Z"
+  },
+  {
+    "accountID": "ACC1001",
+    "type": "deposit",
+    "amount": 1000,
+    "timestamp": "2024-02-11T17:58:42.183Z"
+  },
+  {
+    "accountID": "ACC1001",
+    "type": "withdrawal",
+    "amount": 1000,
+    "timestamp": "2024-02-11T18:00:32.774Z"
+  }
+]
