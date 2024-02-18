@@ -10,34 +10,7 @@ if (err) {
 else
               resolve(data.trim()); })
 
-})
-
-
-  // const city  fs.readFile('input.txt', 'utf8' ,function(err, data) {
-  //       if(err) throw err;
-
-  //        const city = data;
-
-  //           console.log(city); }
-
-  //   );
-// console.log(city);
-
-
-
-    // async function selectRandomCity() {
-    //     try {
-    //       const data = await fs.readFile('input.txt', 'utf-8');
-    //       const cities = data.trim().split('\n');
-    //       const randomIndex = Math.floor(Math.random() * cities.length);
-    //       return JSON.parse(cities[randomIndex]);
-    //     } catch (err) {
-    //       throw new Error('Failed to read cities from input file');
-    //     }
-    //   }
-
-
-
+});
 
 async function fetchdataTemperature(city){
     const url = `https://api.open-meteo.com/v1/forecast?latitude=${city.lat}&longitude=${city.lng}&current_weather=true`;
@@ -49,6 +22,7 @@ async function fetchdataTemperature(city){
 
  function displayWeather(city,temperature){
     return `City name : ${city.name} ; Temperature ${temperature}`;
+
 }
 
 
