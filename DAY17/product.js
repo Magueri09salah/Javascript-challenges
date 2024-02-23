@@ -102,6 +102,7 @@ app.put('/products/:id', (req,res)=>{
 app.delete('/products/:id' , (req,res)=>{
     const id = parseInt(req.params.id);
     const productIndex = products.findIndex(product => product.id === id);
+    console.log(productIndex);
     if (productIndex !== -1) {
         products.splice(productIndex, 1);
         res.sendStatus(204);
