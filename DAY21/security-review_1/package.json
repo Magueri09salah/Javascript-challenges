@@ -5,7 +5,8 @@
     "csurf": "^1.11.0",
     "expres": "^0.0.5",
     "express": "^4.18.2",
-    "express-session": "^1.18.0"
+    "express-session": "^1.18.0",
+    "express-validator": "^7.0.1"
   },
   "name": "security-review",
   "version": "1.0.0",
